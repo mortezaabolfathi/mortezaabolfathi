@@ -2,7 +2,6 @@
 
 <h3 align="center">A Passionate Frontend Developer From Iran</h3>
 
-- 🔭 I’m currently working on [Nakhlestan](https://nakhlestaan.com/)
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **React , Sass , Bootstrap , Tailwind , Material UI**
 - 📫 How to reach me **Morteza.abolfathi73@gmail.com**
@@ -11,13 +10,13 @@
 
 <p align="center" >
 <a href="mailto:norteza.abolfathi73@gmail.com"><img src="https://camo.githubusercontent.com/b3cb922f087c07b986647c98ac570d2a643486455165557dc8aa896f44e382fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d663466346634266c6f676f3d676d61696c266c6f676f436f6c6f723d443134383336266c696e6b3d6d61696c746f3a657266616e2e6d616c616b75746940676d61696c2e636f6d2f"  ></a>
-<a href="https://www.linkedin.com/in/ahmad-alarezi/" ><img src="https://camo.githubusercontent.com/3658d2f47bf2a33787768fb0ad2a688c15c840e1d71caeafbcd4c459f29d22b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d663466346634266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d303037374235266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f657266616e2d6d616c616b6f7574692f">
+<a href="https://www.linkedin.com/in/morteza-abolfathi-232843238/" ><img src="https://camo.githubusercontent.com/3658d2f47bf2a33787768fb0ad2a688c15c840e1d71caeafbcd4c459f29d22b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d663466346634266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d303037374235266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f657266616e2d6d616c616b6f7574692f">
 </a>
 <a href="https://wa.me/+98935991933" ><img src="https://camo.githubusercontent.com/dae548bf98f5289b2392d7f798ed16a8382b979a105a90b953519d7f96effb97/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d663466346634266c6f676f3d7768617473617070266c6f676f436f6c6f723d323544333636266c696e6b3d68747470733a2f2f77612e6d652f2b3938393035393136333832322f"  ></a>
 </p>
 
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadalarezi&theme=merko&show_icons=true&include_all_commits=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadalarezi&theme=merko)](https://github.com/ahmadalarezi/github-readme-stats)
+![Morteza's GitHub stats](https://github-readme-stats.vercel.app/api?username=mortezaabolfathi&theme=merko&show_icons=true&include_all_commits=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mortezaabolfathi&theme=merko)](https://github.com/mortezaabolfathi/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -42,16 +41,4 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
 </p>
 
-</p>
-
-<h3 align="left">And Some Experience In:</h3>
-
-<p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
-<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" /> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> </a>
 </p>
